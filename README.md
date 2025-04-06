@@ -73,7 +73,7 @@ Open `index.html` in browser to access the frontend.
 ## 🔗 Useful Links
 
 - 📄 GitHub Repo: https://github.com/AtreyeeDas/FinWise
-- 🎥 Demo Video: [Link to YouTube/Drive]
+- 🎥 Demo Video: https://youtu.be/J5OqcjyeV1E
 - 🔗 Live MVP: https://effort.ccbp.tech/
 
 
