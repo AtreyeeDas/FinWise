@@ -1,6 +1,6 @@
 # 💸 FinWise: AI-Powered Financial Assistant for Smarter Investments
 
-**FinWise** is a GenAI-based financial solution designed to enhance financial literacy and empower retail investors in India. Built by **Code Voyagers**, the project predicts stock prices using deep learning and offers actionable investment insights through Gemini AI.
+**FinWise** is a GenAI-based financial solution designed to enhance financial literacy and empower retail investors in India. Built by **Code Voyagers**, the project predicts stock prices using deep learning and offers actionable investment insights through Gemini AI. This project is our contribution to GDG on-campus Solution Challenge 2025.
 
 ---
 ## 👥 Team
