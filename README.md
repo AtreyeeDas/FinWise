@@ -72,9 +72,10 @@ Open `index.html` in browser to access the frontend.
 
 ## 🔗 Useful Links
 
-- 📄 GitHub Repo: [github.com/your-username/finwise](https://github.com/your-username/finwise)
+- 📄 GitHub Repo: https://github.com/AtreyeeDas/FinWise
 - 🎥 Demo Video: [Link to YouTube/Drive]
-- 🔗 Live MVP: [Link to hosted version]
+- 🔗 Live MVP: https://effort.ccbp.tech/
+
 
 ---
 
